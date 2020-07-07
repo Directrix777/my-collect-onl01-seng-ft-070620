@@ -8,5 +8,5 @@ def my_collect(array)
   collection
 end
 
-#Didn't we code this in the code-along from two labs before??? 
+#Didn't we code this in the code-along from two labs before???
 #Copypasted that, passed all the tests instantly
